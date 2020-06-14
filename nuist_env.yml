@@ -1,0 +1,17 @@
+# Create full conda environment for development, including some useful tools
+name: tutorial_2020
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - matplotlib
+  - proplot
+  - netcdf4
+  - xarray
+  - jupyterlab
+  - cartopy
+  - git
+  - wrf-python
+  - pandas
+  - dask
