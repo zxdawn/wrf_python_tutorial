@@ -5,7 +5,7 @@ Student Workbook Repository for the wrf-python Tutorial
 
 ### Env
 
-1. Download the latest miniconda package from [TUNA](https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/)
+1. Download the latest anaconda package from [TUNA](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/?C=M&O=A)
 
 2. Install anaconda by running the `.sh` or `.exe` file
 
